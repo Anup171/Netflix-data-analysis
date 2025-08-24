@@ -40,24 +40,26 @@ This project explores and visualizes Netflix’s content library using Python, p
 
 ## Project Structure
 
-netflix-data-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   └── netflix_titles.csv           # Original raw dataset
-│   ├── cleaned/
-│   │   └── netflix_cleaned.csv          # Cleaned dataset after handling missing values, etc.
-│   └── processed/
-│       └── netflix_processed.csv        # Final processed dataset used for analysis
-│
-├── images/
-│   └── (generated plots)
-│
-├── notebooks/
-│   └── data-visualization.ipynb         # Main analysis and visualization notebook
-│
-├── report.md                            # Project report
-└── README.md                            # Project documentation
+- **data/**
+  - **raw/**
+    - `netflix_titles.csv` 
+  - **cleaned/**
+    - `netflix_cleaned.csv` 
+  - **processed/**
+    - `netflix_processed.csv` 
+
+- **images/**
+  - (generated plots)
+
+- **notebooks/**
+  - `data-visualization.ipynb`
+  - `data-analysis-manipulation.ipynb`
+  - `data-cleaning.ipynb`
+  - `data-exploration.ipynb`
+
+- `report.md` 
+- `README.md`
+- `requirements.txt`
 
 ---
 
