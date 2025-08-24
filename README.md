@@ -39,7 +39,6 @@ This project explores and visualizes Netflix’s content library using Python, p
 ---
 
 ## Project Structure
----
 
 netflix-data-analysis/
 │
