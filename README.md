@@ -144,7 +144,7 @@ All plots are saved in the `images/` directory for easy access.
 
 ## Credits
 
-- **Developed by:** Anup B  
+- **Developed by:** Anup S Bhandarkar 
 - **Dataset:** Netflix public catalog (processed version)
 - **Tools:** Python, pandas, matplotlib, seaborn
 
